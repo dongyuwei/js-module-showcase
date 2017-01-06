@@ -1,3 +1,6 @@
+## install npm packages
+`npm install --registry=https://registry.npm.taobao.org`
+
 ## browserify/watchify
 `./node_modules/.bin/watchify tests/input/entry.js -o tests/output/browserified/entry.js -v`
 

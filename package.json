@@ -4,11 +4,13 @@
   },
   "devDependencies": {
     "browserify": "13.0.0",
+    "css-loader": "^0.26.1",
     "event-stream": "3.3.2",
     "extend": "3.0.0",
     "glob": "~3.2.9",
     "gulp": "gulpjs/gulp#4.0",
     "rollup": "^0.40.2",
+    "style-loader": "^0.13.1",
     "through": "~2.3.4",
     "vinyl-buffer": "1.0.0",
     "vinyl-source-stream": "1.1.0",
